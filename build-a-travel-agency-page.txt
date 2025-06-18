@@ -35,7 +35,22 @@
 							<img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="fishing"></a>
 <figcaption>Fishing</figcaption>
 						</figure>
-
+						
+						<iframe src="https://www.brookfieldzoo.org/" title="Berg Codes"></iframe><br>
+						<iframe src="https://en.wikipedia.org/wiki/Brookfield,_Illinois title="Berg Codes"></iframe><br>
+						<iframe src="https://www.tripadvisor.com/Attraction_Review-g35719-d131606-Reviews-Brookfield_Zoo-Brookfield_Illinois.html"></iframe><br>
+				<input type="image" alt="ribeye" src="https://bbqchiefs.com/wp-content/uploads/2019/04/Ribeye-Steak-Garlic-Butter.jpg" width="500" height="600">
+				
+				<!--<audio controls>
+  <source src="audio.ogg" type="audio/ogg" />
+  <source src="audio.wav" type="audio/wav" />
+  <source src="audio.mp3" type="audio/mpeg" />
+</audio>-->
+				<audio src="https://cdn.freecodecamp.org/curriculum/js-music-player/can't-stay-down.mp3" loop controls></audio>
+				<audio src="https://cdn.freecodecamp.org/curriculum/js-music-player/can't-stay-down.mp3" loop controls muted></audio>
+				
             </body>
 			</html>
+			
+			
 
